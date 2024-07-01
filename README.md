@@ -27,6 +27,10 @@ Install bradlc.vscode-tailwindcss 0.10.5.
 
 You should be able to get suggestions inside of `src/Main.elm`.
 
+![image info](./how-it-should-look.png)
+
 Now upgrade to version 0.12.x. No suggestions anymore.
+
+![image info](./how-it-looks-currently.png)
 
 
